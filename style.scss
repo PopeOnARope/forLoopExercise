@@ -1,0 +1,33 @@
+.container {
+	width: 1000px;
+	height: 1000px;
+	border: 1px solid red;
+}
+.nav {
+	width: 100%;
+	border: 1px solid red;
+	}
+.nav li {
+	display: inline-block;
+	padding: 5%;	
+}
+
+.images img {
+	width: 25%;
+	border: 1px solid red;
+}
+.container2 > div {
+	background-color: black;
+	height: 10px;
+}
+
+.container3 > div {
+	height: 10px;
+	// border: 1px solid red;
+
+}
+.container4 {
+	border: 1px solid red;
+	height: 200px;
+	width: 200px;
+}
